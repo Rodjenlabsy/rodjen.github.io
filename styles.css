@@ -358,7 +358,7 @@ footer {
     z-index: 1001;
 }
 
-/* Add the following CSS for the lightbox */
+
 #lightbox {
     position: fixed;
     top: 0;
@@ -413,7 +413,7 @@ body {
     scroll-behavior: smooth;
 }
 
-/* HEADER STYLES */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -427,14 +427,14 @@ header {
     line-height: 80px;
 }
 
-/* LOGO */
+
 .logo {
     font-size: 2rem;
     color: var(--highlight-color);
     font-weight: bold;
 }
 
-/* NAVIGATION */
+
 .navbar {
     display: flex;
 }
@@ -465,12 +465,12 @@ header {
     border-radius: 5px;
 }
 
-/* MOBILE MENU ICON (OPTIONAL) */
+
 .menu-icon {
     display: none;
 }
 
-/* FOOTER */
+
 footer {
     text-align: center;
     padding: 20px;
